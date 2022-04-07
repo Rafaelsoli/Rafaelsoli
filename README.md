@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Bruno Rafael🔥
 
 - 🖥️ Estou aprendendo JavaScript
-- 📚 Estudo na Una, Ciência da computação
+- 📚 Una - Ciência da computação
 
 <div>
   <a href="https://beacons.ai/Rafaelsoli">
