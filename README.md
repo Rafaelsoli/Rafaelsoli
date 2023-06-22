@@ -1,6 +1,6 @@
 ### Hi! I am Bruno Rafael🔥
 
-- 🖥️ I'm learning JavaScript, HTML, CSS and C++
+- 🖥️ I'm learning MYSQL, JAVASCRIPT & REACT
 
 <div>
   <a href="https://beacons.ai/Rafaelsoli">
