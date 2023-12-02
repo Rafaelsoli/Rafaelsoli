@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/ca/02/02/ca0202b173ded8b6cb6cf21c62f07180.gif))](https://rafaelsoli.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rafaelsoli.io)
 <h1 align="center">Hi 👋, I'm Bruno Rafael</h1>
 <h3 align="center">Um Estudante de ciência da computação da PUC MINAS</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/02/02/ca0202b173ded8b6cb6cf21c62f07180.gif">
+<img align="right" alt="Coding" width="400" src="">
 <p align="left"> <a href="https://twitter.com/astlar7" target="blank"><img src="https://img.shields.io/twitter/follow/astlar7?logo=twitter&style=for-the-badge" alt="astlar7" /></a> </p>
 
 - 🌱 I’m currently learning **C, C++, HTML, CSS, JS**
