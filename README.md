@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3131DB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Rafael+Santos;I'm+20+years+old;I+am+from+Belo+Horizonte,+MG;I+study+Computer+Science+at+PUC+Minas;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Astlar&bg_color=0a0c10&color=1717cf&line=181a63&point=19197b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafaelsoli&bg_color=0a0c10&color=1717cf&line=181a63&point=19197b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafaelsoli&show_icons=true&count_private=true&hide_border=true&title_color=3131DB&icon_color=2D2DC9&text_color=c9d1d9&bg_color=0D0F14" alt="Bruno github stats" /> 
