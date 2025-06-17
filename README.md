@@ -1,30 +1,82 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3131DB&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bruno+Rafael+Santos;I'm+20+years+old;I+am+from+Belo+Horizonte,+MG;I+study+Computer+Science+at+PUC+Minas;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- Banner topo com efeito -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👨‍💻%20Bruno%20Rafael&fontAlign=center&fontColor=fff&color=0:0E2034,100:00b4db" />
+</p>
 
+<!-- Apresentação pessoal -->
+<h2 align="center">🙋‍♂️ Olá, mundo! Eu sou o Bruno Rafael 🚀</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafaelsoli&bg_color=0a0c10&color=1717cf&line=181a63&point=19197b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  Estudante apaixonado por tecnologia, código e desafios inteligentes.<br/>
+  Curioso por natureza, obcecado por otimização e amante de boas soluções.
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafaelsoli&show_icons=true&count_private=true&hide_border=true&title_color=3131DB&icon_color=2D2DC9&text_color=c9d1d9&bg_color=0D0F14" alt="Bruno github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelsoli&layout=compact&hide_border=true&title_color=3131DB&text_color=3131DB&bg_color=0D0F14" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
+### 🧠 Sobre mim
+
+- 💼 Estudante de Engenharia / Computação com foco em desenvolvimento inteligente
+- 🔍 Explorando o universo de **Flutter**, **IA**, **Hash Extensível** e **Banco de Dados**
+- 💬 Adoro conversar sobre algoritmos, UI/UX, sistemas inteligentes e otimizações SQL
+- 🎯 Objetivo: dominar a engenharia de software com criatividade e consistência
+
+---
+
+### 🚀 Tecnologias que gosto
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🏆 Meus Troféus no GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rafaelsoli&theme=darkhub&no-frame=true&margin-w=10&row=2&column=3" />
+</p>
+
+---
+
+### 📈 Minhas Estatísticas
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafaelsoli&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoli&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Atividades Recentes
+
+![rafaelsoli's GitHub streak](https://streak-stats.demolab.com/?user=Rafaelsoli&theme=dark&hide_border=true)
+
+---
+
+### 🐍 Snake de Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rafaelsoli/Rafaelsoli/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🌐 Me Encontre por Aí
+
+<p align="center">
+  <a href="mailto:brunorafaelsoli04@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rafaelsoli/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rafaelsoli"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0E2034&height=120&section=footer"/>
+</p>
