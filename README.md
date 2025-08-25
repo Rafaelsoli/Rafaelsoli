@@ -1,17 +1,24 @@
 <div align="center">
 
-# Bruno Rafael  
+# 👨‍💻 Bruno Rafael
+
+🎮 *Explorador de código em constante evolução*  
+🧠 *Apaixonado por tecnologia, jogos e desenvolvimento mobile*
 
 <table>
 <tr>
 <td align="left" width="50%" valign="top">
 
 ## 👋 Sobre mim  
-✨ Explorador de código em constante evolução  
 
-- 🚀 Estudando **Java**, **C**, **Flutter** e **JavaScript**  
-- 🛠️ Interesse em **Game Dev** e ** mobile**  
-- 📬 Contato: [brunorafaelsoli04@gmail.com](#)  
+- 🚀 Atualmente estudando:  
+  **Java**, **C**, **Flutter**, **JavaScript**
+  
+- 🎯 Foco em:  
+  **Desenvolvimento de Jogos** & **Mobile Development**
+
+- 📬 Contato:  
+  [brunorafaelsoli04@gmail.com](mailto:brunorafaelsoli04@gmail.com)
 
 </td>
 <td align="center" width="50%" valign="top">
@@ -22,18 +29,19 @@
 </tr>
 </table>
 
-
-
-## 🚀 Tecnologias
-<div align="center" style="background-color:#1a1a1a; padding:15px; border-radius:10px;">
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,html,css,js,java,c," />
-</p>
+## 🚀 Tecnologias & Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,html,css,js,java,c" />
 </div>
 
-<div align="center" style="background-color:#1a1a1a; padding:15px; border-radius:10px;">
+## 🚀 Stats
 
-⚡ <strong><em>"No cost too great."</em></strong> ⚡
+  ![brunorafael](https://github-readme-stats.vercel.app/api?username=Rafaelsoli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+
+<div align="center" style="padding:20px; border-radius:12px; font-size:18px">
+
+⚡ <strong><em>"No cost too great."</em></strong> ⚡  
 
 </div>
 
