@@ -2,8 +2,8 @@
 
 # 👨‍💻 Bruno Rafael
 
-🎮 *Explorador de código em constante evolução*  
-🧠 *Apaixonado por tecnologia, jogos e desenvolvimento mobile*
+
+🧠 *Apaixonado por tecnologia e jogos*
 
 <table>
 <tr>
